@@ -1,0 +1,8 @@
+type = customizablemenus
+
+net.minecraft.class_442 {
+}
+
+mod.adrenix.nostalgic.client.gui.screen.vanilla.title.NostalgicTitleScreen {
+}
+
